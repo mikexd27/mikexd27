@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1>
+<h3 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate fullstack developer from Perú</h3>
+<br>
+
+---
+### 🖥️ Abilities:
 
 <table>
 <tr>
@@ -76,8 +80,11 @@
 </tr>
 </table>
 
+---
+<br>
+
+### 📊 GitHub Stats:
 <div align="center">
-        <h3>📊 GitHub Stats</h3>
         <p>
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikexd27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
         </p>
