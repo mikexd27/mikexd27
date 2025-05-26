@@ -14,7 +14,7 @@
   <h3>🎨 Frontend Development</h3>
 </th>
 </tr>
-<tr align="center"> 
+<tr align="center">
 <td>
  <h3></h3>
         <p>
